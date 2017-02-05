@@ -14,10 +14,11 @@
     tools:showIn="@layout/activity_main"
     tools:context="com.explore.explore.MainActivity">
 
-    <TextView
-        android:id="@+id/sample_text"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
+
+    <!--<TextView-->
+        <!--android:id="@+id/sample_text"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Hello World!" />-->
 
 </RelativeLayout>
